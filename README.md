@@ -5,9 +5,9 @@ Presentation
 --------
 
 This Python code is an example of a simple artificial neural network
-written from scratch using only :
-- the numpy package for array manipulation
-- the mnist module to import the database
+written from scratch using only two modules:
+- [numpy](https://numpy.org/)
+- [mnist](https://pypi.org/project/mnist/)
 
 The MNIST database of handwritten digits is used to train the network: 
 http://yann.lecun.com/exdb/mnist/

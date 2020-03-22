@@ -23,8 +23,8 @@ This is a forward propagating network with 3 layers :
 - the output layer has 10 nodes
 
 Activation functions used:
-    - Sigmoid for the hidden layer
-    - Softmax for the output layer
+- Sigmoid for the hidden layer
+- Softmax for the output layer
 
 The loss is calculated with cross entropy.
 

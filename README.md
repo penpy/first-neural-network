@@ -2,7 +2,6 @@
 Neural network built from scratch for MNIST digits classification
 
 
-===========
 PRESENTATION
 
 This Python code is an example of a simple artificial neural network
@@ -11,9 +10,9 @@ written from scratch using only :
     - the mnist module to import the database
 
 The MNIST database of handwritten digits is used to train the network
+http://yann.lecun.com/exdb/mnist/
 
 
-===========
 STRUCTURE OF THE NEURAL NETWORK
 
 This is a forward propagating network with 3 layers :
@@ -28,7 +27,6 @@ Activation functions used:
 The loss is calculated with cross entropy
 
 
-===========
 USAGE GUIDE
 
 1.  Run the train() function to train the neural network

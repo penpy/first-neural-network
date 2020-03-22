@@ -4,7 +4,7 @@
 ===========
 PRESENTATION
 
-This code is an example of a simple artificial neural network
+This Python code is an example of a simple artificial neural network
 written from scratch using only :
  - the numpy package for array manipulation
  - the mnist module to import the database

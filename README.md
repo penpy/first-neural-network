@@ -32,10 +32,10 @@ The loss is calculated with cross entropy.
 Usage guide
 --------
 
-1.  Run the train() function to train the neural network.
+1.)  Run the train() function to train the neural network.
     For each iteration a batch of 32 images is processed.
     At the end of each iteration the weights and biases are updated.
     
-2.  Run the accuracy() function to see the network's performance.
+2.) Run the accuracy() function to see the network's performance.
 
-3.  Feel free to change the network's parameters and try to improve accuracy.
+3.) Feel free to change the network's parameters and try to improve accuracy.

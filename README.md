@@ -9,7 +9,7 @@ written from scratch using only :
     - the numpy package for array manipulation
     - the mnist module to import the database
 
-The MNIST database of handwritten digits is used to train the network
+The MNIST database of handwritten digits is used to train the network: 
 http://yann.lecun.com/exdb/mnist/
 
 

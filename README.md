@@ -1,4 +1,4 @@
-# Neural-network-built-from-scratch
+# Neural network built from scratch
 
 
 Presentation

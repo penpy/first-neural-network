@@ -1,14 +1,15 @@
 # coding: utf-8
 
-""" Neural network with 1 hidden layer for MNIST handwritten digits classification
+""" Neural network with 1 hidden layer for MNIST handwritten digits recognition
 ===========
 PRESENTATION
 
 This Python code is an example of a simple artificial neural network
 written from scratch using only :
-    - the numpy package for array manipulation
-    - the mnist module to import the database
+    - the numpy package (for array manipulation)
+    - the mnist module (to import the database)
 
+Make sure these two modules (from the Pypi library) are installed.
 The MNIST database of handwritten digits is used to train the network
 
 ===========
@@ -63,7 +64,6 @@ t : target digit (an integer between 0 and 9)
 
 ===========
 """
-
 
 import numpy as np
 import mnist

@@ -1,5 +1,5 @@
 # neural-network
-Neural network built from scratch for MNIST digits classification
+Neural network built from scratch for MNIST digits classification.
 
 
 Presentation

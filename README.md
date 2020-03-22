@@ -16,9 +16,9 @@ http://yann.lecun.com/exdb/mnist/
 STRUCTURE OF THE NEURAL NETWORK
 
 This is a forward propagating network with 3 layers :
-    - the input layer has 784 nodes (28 x 28 input images are flattened)
-    - the hidden layer has 16 nodes
-    - the output layer has 10 nodes
+- the input layer has 784 nodes (28 x 28 input images are flattened)
+- the hidden layer has 16 nodes
+- the output layer has 10 nodes
 
 Activation functions used:
     - Sigmoid for the hidden layer

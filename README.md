@@ -32,6 +32,7 @@ Usage guide
 --------
 
 1.  Run the train() function to train the neural network.
+    This function executes 200 iterations.
     For each iteration a batch of 32 images is processed.
     At the end of each iteration the weights and biases are updated.
     

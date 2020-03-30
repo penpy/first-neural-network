@@ -23,7 +23,6 @@ This is a forward propagating network with 3 layers :
 
 Activation functions used:
 - Sigmoid for the hidden layer
-$$\sigma (\bold{x}) =  \frac{\mathrm{1} }{\mathrm{1} + e^{-\bold{x}} }  $$ 
 - Softmax for the output layer
 
 The loss is calculated with cross entropy.

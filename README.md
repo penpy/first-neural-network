@@ -16,6 +16,10 @@ The network is trained to classify handwritten digits using the MNIST database (
 
 The **[simple_nn_test.ipynb](simple_nn_test.ipynb)** contains a demo of how to use the **[simple_nn](simple_nn.py)** file to train and test the network's performance. There are also explanations of how the network works and is trained using gradient descent. In this file we use the [matplotlib](https://matplotlib.org) package to illustrate the dataset inputs and the results of the network.
 
+Illustration of the output of the network for a given input image :
+
+<img src="OutputExample.png" width="400">
+
 
 Structure of the neural network
 --------

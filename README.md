@@ -4,7 +4,7 @@
 Presentation and dependencies
 --------
 
-The **[simple_nn](simple_nn.py)** Python code is an example of a simple artificial neural network 
+The **[simple_nn.py](simple_nn.py)** Python code is an example of a simple artificial neural network 
 written from scratch using only two packages from [pypi.org](https://pypi.org/):
 - [numpy](https://numpy.org/) to manipulate arrays and compute matrix operations efficiently.
 - [mnist](https://pypi.org/project/mnist/) to download and parse the dataset into training and testing sets with labels that can be used as numpy arrays.
@@ -14,7 +14,7 @@ The network is trained to classify handwritten digits using the MNIST database (
 ![](Images/MnistExamples.png)
 
 
-The **[simple_nn_test.ipynb](simple_nn_test.ipynb)** contains a demo of how to use the **[simple_nn](simple_nn.py)** file to train and test the network's performance. There are also explanations of how the network works and is trained using gradient descent. In this file we use the [matplotlib](https://matplotlib.org) package to illustrate the dataset inputs and the results of the network.
+The **[simple_nn_test.ipynb](simple_nn_test.ipynb)** contains a demo of how to use the **[simple_nn.py](simple_nn.py)** file to train and test the network's performance. There are also explanations of how the network works and is trained using gradient descent. In this file we use the [matplotlib](https://matplotlib.org) package to illustrate the dataset inputs and the results of the network.
 
 Illustration of the output of the network for a given input image :
 

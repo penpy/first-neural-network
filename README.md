@@ -5,12 +5,11 @@ Presentation
 --------
 
 This Python code is an example of a simple artificial neural network
-written from scratch using only two modules:
-- [numpy](https://numpy.org/)
-- [mnist](https://pypi.org/project/mnist/)
+written from scratch using only two packages from [PyPi](https://pypi.org/):
+- [numpy](https://numpy.org/) to manipulate arrays and compute matrix operations efficiently.
+- [mnist](https://pypi.org/project/mnist/) to download and parse the dataset into training and testing sets with labels that can be used as numpy arrays.
 
-The MNIST database of handwritten digits is used to train the network: 
-http://yann.lecun.com/exdb/mnist/
+The MNIST dataset of handwritten digits (http://yann.lecun.com/exdb/mnist/) is used to train and test the network.
 
 
 Structure of the neural network

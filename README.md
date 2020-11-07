@@ -1,7 +1,7 @@
 # Neural network built from scratch
 
 
-Presentation
+Presentation and dependencies
 --------
 
 The **[simple_nn](simple_nn.py)** Python code is an example of a simple artificial neural network 

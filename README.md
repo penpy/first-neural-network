@@ -18,7 +18,7 @@ The **[simple_nn_test.ipynb](simple_nn_test.ipynb)** contains a demo of how to u
 
 Illustration of the output of the network for a given input image :
 
-<img src="Images/OutputExample.png" width="300">
+<img src="Images/OutputExample.png" width="422">
 
 
 Structure of the neural network

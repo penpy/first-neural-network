@@ -36,7 +36,7 @@ Activation functions used:
 The loss is calculated with cross entropy.
 
 
-Usage guide of the [simple_nn](simple_nn.py) functions
+Usage guide of the [simple_nn.py](simple_nn.py) functions
 --------
 
 1.  Run the ***train()*** function to train the neural network.

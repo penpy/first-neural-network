@@ -29,7 +29,7 @@ An illustration of the output of the network for a given input image:
 Structure of the neural network
 --------
 
-This is a forward propagating network with 3 layers :
+This is a fully connected forward propagating network with 3 layers :
 - the input layer has 784 nodes (28 x 28 input images are flattened)
 - the hidden layer has 16 nodes
 - the output layer has 10 nodes

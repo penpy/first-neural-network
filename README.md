@@ -9,7 +9,7 @@ written from scratch using only two packages from [pypi.org](https://pypi.org/):
 - [numpy](https://numpy.org/) to manipulate arrays and compute matrix operations efficiently.
 - [mnist](https://pypi.org/project/mnist/) to download and parse the dataset into training and testing sets with labels that can be used as numpy arrays.
 
-The **[NN_1_hidden_layer.py](NN_1_hidden_layer.py)** is an improved version of the code using object-oriented programming. The structure of the network is the same. Additional functions are introduced to evaluate the performance of the network. Moreover this version does not use the [mnist](https://pypi.org/project/mnist/) package, but instead the raw files of the MNIST database (that can be downloaded at http://yann.lecun.com/exdb/mnist/) are used. The dependencies of this file are:
+The **[NN_1_hidden_layer.py](NN_1_hidden_layer.py)** is an improved version of the code using object-oriented programming. The structure of the network is the same. Additional functions are introduced to evaluate the performance of the network. Moreover this version does not use the [mnist](https://pypi.org/project/mnist/) package, but instead the raw files of the MNIST database (that can be downloaded at http://yann.lecun.com/exdb/mnist/) are used. The imports in this code are:
 - [numpy](https://numpy.org/)
 - [struc](https://docs.python.org/3/library/struct.html) and [array](https://docs.python.org/3/library/array.html) to convert the raw data of the database into numpy arrays. These two modules are already contained in Python (no need to download them).
 - [matplotlib](https://matplotlib.org) to plot and illustrate the performance of the network.

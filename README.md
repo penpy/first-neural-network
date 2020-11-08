@@ -4,7 +4,7 @@
 Presentation and dependencies
 --------
 
-The **[simple_nn.py](simple_nn.py)** Python code is an example of an artificial neural network model
+The **[simple_nn.py](simple_nn.py)** Python code is an artificial neural network model
 written from scratch using only two packages from [pypi.org](https://pypi.org/):
 - [numpy](https://numpy.org/) to manipulate arrays and compute matrix operations efficiently.
 - [mnist](https://pypi.org/project/mnist/) to download and parse the dataset into training and testing sets with labels that can be used as numpy arrays.

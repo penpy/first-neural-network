@@ -1,4 +1,4 @@
-# Neural networks built from scratch
+# My first Neural Networks built from scratch
 
 
 Presentation and dependencies
